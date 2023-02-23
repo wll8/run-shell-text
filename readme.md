@@ -4,7 +4,7 @@
 ``` js
 const {
   run,
-} = require(`run-shell`)
+} = require(`run-shell-text`)
 
 run(`
   echo 你好
